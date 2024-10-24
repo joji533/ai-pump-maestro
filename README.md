@@ -1,4 +1,3 @@
-// README.md
 # 🚀 AI Pump Creator
 
 Are you tired of complicated token creation processes? Here's something different.
